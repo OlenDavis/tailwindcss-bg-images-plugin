@@ -1,3 +1,10 @@
+## [1.1.2](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/compare/v1.1.1...v1.1.2) (2023-07-16)
+
+
+### Bug Fixes
+
+* **packaging:** Fixes the exporting of the nuxt.js file ([eb61068](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/commit/eb61068e18a887ebcb22d68df1690d687c5893ac))
+
 ## [1.1.1](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/compare/v1.1.0...v1.1.1) (2023-07-16)
 
 
