@@ -2,7 +2,7 @@ import plugin from "tailwindcss/plugin";
 import { globSync } from "glob";
 import { CSSRuleObject } from "tailwindcss/types/config";
 
-export default function pluginBgImages({
+export default function makePlugin({
   globOptionsByPattern = {
     "./assets/**/*.@(jpg|jpeg|png|gif|svg|webp)": { dot: true },
   },

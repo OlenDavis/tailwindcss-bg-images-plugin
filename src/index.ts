@@ -1,3 +1,3 @@
-import pluginBgImages from "./plugin-bg-images";
+import makePlugin from "./make-plugin";
 
-export default pluginBgImages();
+export default makePlugin();
