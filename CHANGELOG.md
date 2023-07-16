@@ -1,3 +1,16 @@
+# [1.1.0](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/compare/v1.0.1...v1.1.0) (2023-07-16)
+
+
+### Bug Fixes
+
+* **build:** Fix typing of ([55bc383](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/commit/55bc38350173c3d4b26030caecdfdbaa2337bdea))
+* **packaging:** Don't require  to use plugin ([bfbba79](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/commit/bfbba7946b19cd60799fef98c7b5f6af34460330))
+
+
+### Features
+
+* **packaging:** Use framework-agnostic defaults; add Nuxt usage ([79bee0b](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/commit/79bee0b1052e7b6b8ccb64558091c463a9390b2c))
+
 ## [1.0.1](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/compare/v1.0.0...v1.0.1) (2023-07-16)
 
 
