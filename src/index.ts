@@ -1,3 +1,3 @@
-import makePlugin from "./make-plugin";
+import makePlugin from './make-plugin'
 
-export default makePlugin();
+module.exports = makePlugin()
