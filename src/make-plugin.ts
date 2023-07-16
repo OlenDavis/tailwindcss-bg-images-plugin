@@ -24,7 +24,7 @@ export default function makePlugin({
 			const imagePaths = globSync(pattern, globOptions)
 			const utilities = imagePaths
 				.flatMap((imagePath) => {
-					const style = makeStyle?.(imagePath)
+          const style = typeof imagePath == 'string' && makeStyle?.(imagePath)
 					if (style) {
 						const withExtension = makeUtilityWithExtension && makeUtilityWithExtension?.(imagePath)
 						const withoutExtension = makeUtilityWithoutExtension && makeUtilityWithoutExtension?.(imagePath)
