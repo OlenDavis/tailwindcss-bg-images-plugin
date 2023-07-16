@@ -25,7 +25,7 @@ This will use all default options:
 module.exports = {
 	// ...
 	plugins: [
-		'tailwindcss-bg-images-plugin',
+		require('tailwindcss-bg-images-plugin'),
 		// ...
 	],
 }
@@ -41,7 +41,7 @@ If you're using Tailwind in a [Nuxt](https://nuxtjs.org/) project, use `'tailwin
 module.exports = {
 	// ...
 	plugins: [
-		'tailwindcss-bg-images-plugin/nuxt',
+		require('tailwindcss-bg-images-plugin/nuxt'),
 		// ...
 	],
 }
