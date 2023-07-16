@@ -27,6 +27,16 @@
         "types": "./lib/cjs/types/make-plugin.d.ts",
         "default": "./lib/cjs/make-plugin.js"
       }
+    },
+    "./nuxt": {
+      "import": {
+        "types": "./lib/esm/types/nuxt.d.ts",
+        "default": "./lib/esm/nuxt.mjs"
+      },
+      "require": {
+        "types": "./lib/cjs/types/nuxt.d.ts",
+        "default": "./lib/cjs/nuxt.js"
+      }
     }
   },
   "scripts": {
