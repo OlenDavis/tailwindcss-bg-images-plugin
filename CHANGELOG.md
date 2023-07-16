@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/compare/v1.1.0...v1.1.1) (2023-07-16)
+
+
+### Bug Fixes
+
+* **packaging:** Fix missing ([58e4c42](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/commit/58e4c42e960ce7a4e9542fd15a98bb83ba7ad53e))
+
 # [1.1.0](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/compare/v1.0.1...v1.1.0) (2023-07-16)
 
 
