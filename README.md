@@ -1,5 +1,9 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
+# DEPRECATED - PLEASE USE [@olenzilla/tailwindcss-plugin-background-image](https://github.com/olenzilla/tailwindcss-plugin-background-image) INSTEAD
+
+This repo is no longer being maintained; the package at https://github.com/olenzilla/tailwindcss-plugin-background-image is where development will continue.
+
 # tailwindcss-bg-images-plugin
 
 A Tailwind plugin that generates background-image TailwindCSS utilities from glob'd pattern of image files.
