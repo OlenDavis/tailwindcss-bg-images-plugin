@@ -1,3 +1,10 @@
+## [1.1.3](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/compare/v1.1.2...v1.1.3) (2023-07-22)
+
+
+### Bug Fixes
+
+* **docs:** Adds a deprecation message and instructions ([8132c88](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/commit/8132c88efc3e59b55b59dcc1456211341d1544c0))
+
 ## [1.1.2](https://github.com/OlenDavis/tailwindcss-bg-images-plugin/compare/v1.1.1...v1.1.2) (2023-07-16)
 
 
